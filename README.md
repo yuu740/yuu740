@@ -1,2 +1,3 @@
 ## なんで『春日影』やったの!? 
-<div class="tenor-gif-embed" data-postid="15701975466989339158" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/anon-chihaya-chihaya-anon-mygo-togawa-gif-15701975466989339158">Anon Chihaya GIF</a>from <a href="https://tenor.com/search/anon-gifs">Anon GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/sR5nrDUQv6g.gif" alt="Description of your GIF" width="300">
+
