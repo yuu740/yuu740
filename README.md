@@ -29,4 +29,8 @@
 
 </div>
 
-![Pac-Man Animation](https://raw.githubusercontent.com/yuu740/yuu740/output/github-contribution-grid-pacman.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuu740/yuu740/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yuu740/yuu740/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/yuu740/yuu740/output/pacman-contribution-graph.svg">
+</picture>
