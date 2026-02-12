@@ -21,8 +21,6 @@
 </div>
 
 
-## 🏆 Github Trophies
-
 <div align="center">
 
 ![](https://github-profile-trophy.vercel.app/?username=yuu740&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
