@@ -13,7 +13,7 @@
 
 
 ## 📊 Github Statistics
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X&theme=gruvbox)](https://git.io/streak-stats)
 <div align="center">
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" />
@@ -28,4 +28,8 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=yuu740&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
