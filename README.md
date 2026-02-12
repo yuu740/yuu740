@@ -1,4 +1,4 @@
-
+<img width="1140" height="271" alt="image" src="https://github.com/user-attachments/assets/6e23ad1a-b26b-48a3-9ce3-274ef2a8a1d2" />
 
 # About me 💻
 ![anon-chihaya](https://github.com/user-attachments/assets/bee39c4f-5ce0-4cc0-851b-888c81c9b0a9)
@@ -30,8 +30,6 @@
 
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+![Nyan Cat Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30,10,17,20&height=300&section=header&text=Halo%20Dunia!&fontSize=90&animation=fadeIn)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=yuu740&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
