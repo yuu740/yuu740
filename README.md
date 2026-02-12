@@ -29,5 +29,4 @@
 
 </div>
 
-![Nyan Cat Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,2,20,5,30,10,17,20&height=300&section=header&text=Halo%20Dunia!&fontSize=90&animation=fadeIn)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME_KAMU?theme=unicorn&extension=activity)
