@@ -33,3 +33,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=yuu740&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
