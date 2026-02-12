@@ -29,4 +29,4 @@
 
 </div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME_KAMU?theme=unicorn&extension=activity)
+![Pac-Man Animation](https://raw.githubusercontent.com/yuu740/yuu740/output/github-contribution-grid-pacman.svg)
