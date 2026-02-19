@@ -12,7 +12,15 @@
 
 
 ## 📊 Github Statistics
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mycticount-X&theme=gruvbox)](https://git.io/streak-stats)
+
+<p align="center">
+<a href="https://github.com/yuu740">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuu740s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuu740&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox)](https://git.io/streak-stats)
 <div align="center">
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" />
