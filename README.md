@@ -19,12 +19,12 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuu740&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox)](https://git.io/streak-stats)
 <div align="center">
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" />
-</p>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox)](https://git.io/streak-stats)
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" />
+  </p>
 
 </div>
 
