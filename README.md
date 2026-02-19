@@ -20,8 +20,8 @@
 </a>
 </p>
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox)](https://git.io/streak-stats)
-  
+
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox)
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" />
   </p>
