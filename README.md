@@ -13,6 +13,8 @@
 
 ## 📊 Github Statistics
 
+
+
 <p align="center">
 <a href="https://github.com/yuu740">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yuu740&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -31,9 +33,14 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=yuu740&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+  ![](https://github-profile-trophy.vercel.app/?username=yuu740&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+  
+  ![](https://github-trophies.vercel.app/?username=yuu740&theme=tokyonight&no-frame=true&background=1a1b27)
 
 </div>
+
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yuu740/yuu740/output/pacman-contribution-graph-dark.svg">
