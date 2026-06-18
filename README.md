@@ -17,9 +17,6 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuu740&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuu740&theme=gruvbox" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuu740&theme=react" alt="Activity Graph" />
